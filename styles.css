@@ -1,0 +1,26 @@
+h1 {
+    color: white;
+    font-size: 60px;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: rgb(222, 234, 227);
+}
+
+section {
+    width: 80%;
+    background-color: red;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.card{
+    width: 300px ;
+    background-color: blue;
+    padding: 8px;
+}
+
+
